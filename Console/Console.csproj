@@ -12,4 +12,10 @@
       <ProjectReference Include="..\RogueLikeGame\RogueLikeGame.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="..\Readme.md">
+        <Link>Readme.md</Link>
+      </Content>
+    </ItemGroup>
+
 </Project>
