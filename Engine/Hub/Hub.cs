@@ -26,7 +26,6 @@ namespace Engine.Hub
         if(handler.Action is Action<T> sendAction)
           // skicka data
           sendAction(data);
-      // ToDo: försök jävlas med func igen
     }
 
     // action är ett "färdigt" delegat utan return och ingen multicasting / += 

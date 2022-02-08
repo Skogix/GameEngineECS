@@ -24,8 +24,8 @@ namespace RogueLikeGame.Data.Components
 
   public class Actor : Component
   {
-    public GameAction action;
-    public EDirection direction = EDirection.Right;
+    public GameAction action = GameAction.None;
+    public EDirection direction = EDirection.None;
   }
 
   public class Health : Component
