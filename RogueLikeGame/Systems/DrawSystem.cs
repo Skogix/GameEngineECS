@@ -10,7 +10,7 @@ namespace RogueLikeGame
 {
   public class DrawSystem : EntitySystem, IRunSystem
   {
-    public int DrawnEntities;
+    public int DrawnEntities = 0;
 
     public void Run()
     {

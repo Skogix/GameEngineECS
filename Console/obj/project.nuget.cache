@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "89cVrstwS/SQfr1iG7YtE4RUDrkXzrU+wVgRCiWTJQ90yy6NcRfNRAalMcWQy6Bxb9G9eUp51MHuB7fMLUiUzw==",
+  "dgSpecHash": "J23GkQL5379M7Q/jKPPsOj63xEV/jEpX0ZXkxZF00u2zHEwAZNCVWN1AosA24tcPlhc8H0Zr5epGZPnaU8AdTg==",
   "success": true,
-  "projectFilePath": "/home/skogix/dev/GameEngineECS/Console/Console.csproj",
+  "projectFilePath": "/home/skogix/GameEngineECS/Console/Console.csproj",
   "expectedPackageFiles": [
     "/home/skogix/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
   ],

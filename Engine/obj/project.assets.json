@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skogix/dev/GameEngineECS/Engine/Engine.csproj",
+      "projectUniqueName": "/home/skogix/GameEngineECS/Engine/Engine.csproj",
       "projectName": "Engine",
-      "projectPath": "/home/skogix/dev/GameEngineECS/Engine/Engine.csproj",
+      "projectPath": "/home/skogix/GameEngineECS/Engine/Engine.csproj",
       "packagesPath": "/home/skogix/.nuget/packages/",
-      "outputPath": "/home/skogix/dev/GameEngineECS/Engine/obj/",
+      "outputPath": "/home/skogix/GameEngineECS/Engine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/skogix/.nuget/NuGet/NuGet.Config"

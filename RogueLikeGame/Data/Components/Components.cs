@@ -13,7 +13,14 @@ namespace RogueLikeGame.Data.Components
     Attack,
   }
 
-  public class Player : Component { }
+  public class Player : Component
+  {
+    public Player(string name)
+    {
+      Name = name;
+    }
+    public string Name;
+  }
 
   public class Actor : Component
   {

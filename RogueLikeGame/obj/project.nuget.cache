@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3aB5mZUs0xBbJ/1bMMmTXTKN9d0CFPxxx5yGEJBAfAACYW2KqLCGQbKdww77FBoQrhD3ukYAnQI+NF2aSQgSQ==",
+  "dgSpecHash": "MBcTbJuc3bgIClI+8RcofOOpiIWb0/P18Eo/1zUBn/Vl2NptlY7d3IGn2Zuu7a2EV1AP8g5SnhojlL4YT6X4NA==",
   "success": true,
-  "projectFilePath": "/home/skogix/dev/GameEngineECS/RogueLikeGame/RogueLikeGame.csproj",
+  "projectFilePath": "/home/skogix/GameEngineECS/RogueLikeGame/RogueLikeGame.csproj",
   "expectedPackageFiles": [
     "/home/skogix/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
   ],

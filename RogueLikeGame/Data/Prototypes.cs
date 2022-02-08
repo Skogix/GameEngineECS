@@ -10,7 +10,7 @@ using RogueLikeGame.Interfaces;
 
 namespace RogueLikeGame.Data
 {
-  public class Skogix : Entity, IPrototype
+  public class Player : Entity, IPrototype
   {
     public Inventory Inventory;
 
@@ -33,6 +33,7 @@ namespace RogueLikeGame.Data
       this.Get<Transform>().Y = 5;
       this.Get<Drawable>().Glyph = 'M';
       this.Get<Walkable>().Is = false;
+      this.Get<Actor>();
     }
   }
 
